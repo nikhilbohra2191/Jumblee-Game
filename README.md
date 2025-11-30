@@ -1,0 +1,12 @@
+# 🎮 Jumblee Game
+> **"Learn Until You Learn"**
+
+**Jumblee** is an interactive word puzzle game built using **Python** and **Streamlit**. Test your vocabulary skills by unscrambling words across different difficulty levels, earning points for speed and accuracy, and tracking your improvement over time.
+
+## ✨ Features
+* **🔐 User System:** Secure Login and Registration functionality.
+* **🎚️ 3 Difficulty Levels:** Easy, Medium, and Hard modes to challenge all skill levels.
+* **💡 Smart Hints:** Get help with the 1st or 3rd letter (costs points!).
+* **🏆 Scoring Logic:** Earn more points for answering quickly (< 5 seconds).
+* **📊 Leaderboard:** Automatically saves your history, accuracy, and average speed.
+* **⏭️ Skip Function:** Stuck on a word? Skip it to keep the game moving.
