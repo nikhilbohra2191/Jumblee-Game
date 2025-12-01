@@ -48,11 +48,8 @@ if backend.name is None and backend.logged_in_user:
 col1, col2, col3 = st.columns([1.8, 3, 1])
 
 with col2:
-    try:
-        st.image(
-            r"C:\Users\chira\Desktop\SV_Python\Python_GUI_streamlit\Logo_Jumblee.jpg",
-            width=200
-        )
+    st.image("image.png", width=200)
+    
     except Exception:
         st.markdown("### JUMBLEE (image not found)")
 
