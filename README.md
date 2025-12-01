@@ -11,6 +11,13 @@
 * **📊 Leaderboard:** Automatically saves your history, accuracy, and average speed.
 * **⏭️ Skip Function:** Stuck on a word? Skip it to keep the game moving.
 
+## 👥 Contributors
+A big thanks to the team who helped build this project:
+* **Nikhil Bohra**
+* **Sparsh Verma**
+* **Athilesh Sharma**
+* **Vasu Gupta**
+
 ---
 ### 📬 Connect with me
 
