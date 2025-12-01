@@ -49,9 +49,6 @@ col1, col2, col3 = st.columns([1.8, 3, 1])
 
 with col2:
     st.image("image.png", width=200)
-    
-    except Exception:
-        st.markdown("### JUMBLEE (image not found)")
 
 st.title("JUMBLEE (Jumbled Words Game)")
 
